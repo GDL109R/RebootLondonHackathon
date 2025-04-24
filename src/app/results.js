@@ -28,21 +28,21 @@ function Results() {
                 <td>
                 **Flexibility & Growth** – Higher interest when limiting withdrawals (3.50%), giving you tax free savings with great rates and helping manage your money with a rainy day fund.
               </td>
-              <td><Button variant="success" href="https://www.lloydsbank.com/isas/club-lloyds-advantage-isa-saver.html">Apply</Button></td>
+              <td><Button variant="success" href="https://www.lloydsbank.com/isas/club-lloyds-advantage-isa-saver.html">Apply</Button><Button variant="success" href="https://www.lloydsbank.com/isas/club-lloyds-advantage-isa-saver.html">Share</Button></td>
                 </tr>
                 <tr>
                 <td>Cash ISA Saver</td>
               <td>
                 **Long-Term Stability & Rewards** – Longer term savings perfect for saving up for your first home! (<s>1.20%</s> 1.90% for balances £25,000 - £99,999), plus added benefits for Club Lloyds members (extra 0.30%).
               </td>
-              <td><Button variant="success" href="https://www.lloydsbank.com/isas/cash-isa-saver.html">Apply</Button></td>
+              <td><Button variant="success" href="https://www.lloydsbank.com/isas/cash-isa-saver.html">Apply</Button><Button variant="success" href="https://www.lloydsbank.com/isas/cash-isa-saver.html">Share</Button></td>
                 </tr>
                 <tr>
                 <td>Club Lloyds Advantage Saver</td>
                 <td>
                 **Encourages Smart Saving Habits** – Great rates for saving up for something nice! (3.50%). Adding a bit of your salary each month goes far!
               </td>
-              <td><Button variant="success" href="https://www.lloydsbank.com/savings/club-lloyds-advantage-saver.html">Apply</Button></td>
+              <td><Button variant="success" href="https://www.lloydsbank.com/savings/club-lloyds-advantage-saver.html">Apply</Button><br /><Button variant="success" href="https://www.lloydsbank.com/savings/club-lloyds-advantage-saver.html">Share</Button></td>
                 </tr>
             </tbody>
         </Table>
