@@ -118,6 +118,18 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+nav {
+  color: #fff;
+  text-align: center;
+  z-index: 1000;
+  background: #333;
+  width: 100%;
+  padding: 1rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
